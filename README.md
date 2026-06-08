@@ -2,6 +2,10 @@
 
 BeadGrid 是一个单文件版的 Aseprite Lua 脚本，用来把当前 Sprite 的当前帧可视图层合并后转换成拼豆图纸。
 
+## 效果图
+
+![BeadGrid Example](./room1-beadgrid.png)
+
 ## 当前功能
 
 - 读取当前 Sprite 的当前帧
